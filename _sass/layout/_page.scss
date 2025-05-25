@@ -399,3 +399,18 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Footer fix - disable sticky behavior
+   ========================================================================== */
+
+.page__footer {
+  position: static !important;
+  bottom: auto !important;
+  z-index: auto !important;
+}
+
+/* Add bottom margin to main content to prevent cutoff */
+#main {
+  margin-bottom: 2em;
+}
