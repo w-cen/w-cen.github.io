@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor of Record"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course""
+permalink: 
+venue: "University of South Florida, College of Public Health"
+date: 
+location: "Tampa, FL"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Taught the following course with full responsibility:
 ======
-
-Heading 2
-======
-
-Heading 3
+PHC 4069 – Biostatistics for Society (January 2020 – Present)
+PHC 4030 – Introduction to Epidemiology (January 2022 – Fall 2024)
+PHC 3302 – Introduction to Environmental and Occupational Health (Summer 2023, 2024)
 ======
