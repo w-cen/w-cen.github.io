@@ -91,11 +91,12 @@ height: auto;
   .social-icons {
     a {
       white-space: nowrap;
+   .page__footer {
+  display: none !important;
+}
     }
   }
 }
 
 
-.page__footer {
-  display: none !important;
-}
+
