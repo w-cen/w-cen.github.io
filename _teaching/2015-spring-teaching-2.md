@@ -9,6 +9,10 @@ location: "Tampa, FL"
 ---
 
 ## Instructor of Record | January 2020 – Present
+## PHC 4069 – Biostatistics for Society** (January 2020 – Present)
+## PHC 4030 – Introduction to Epidemiology** (January 2022 – Fall 2024)  
+## PHC 3302 – Introduction to Environmental and Occupational Health** (Summer 2023, 2024)
+
 
 **College of Public Health, University of South Florida**
 
