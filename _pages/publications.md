@@ -4,8 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
-# Publications
-
 ## Peer-Reviewed Articles
 
 1. **Cen, W.**, Sahay, S.S., & Chen, H. (2025). 57.9% of NIH-funded completed clinical trials do not report results. *The Lancet Regional Health - Americas*. (Under Review)
@@ -21,3 +19,13 @@ author_profile: true
 6. Lu, Y., **Cen, W.**, Wang, W., Huang, Y., & Chen, H. (2023). How big is a big hazard ratio in clinical trials. *International Journal of Clinical Trials*, 10, 195-200.
 
 7. Anthony, J.L., Chen, Y.J., Williams, J.M., **Cen, W.**, & Erazo, N.A. (2023). US children's understanding of the English language: Its acquisition, conceptualization, and measurement. *Journal of Educational Psychology*, 113(6), 1073.
+
+## Conference Abstracts and Supplements
+
+8. Renati, S., Hairston, M., **Cen, W.**, Chen, H., Bozeman, A., & Burgin, W.S. (2023). Lower Omega-3 Levels Were Found In Post Stroke Post Traumatic Stress Disorder (P3-5.012). *Neurology*, 100(17_supplement_2), 4382.
+
+9. Renati, S., Hilker, N., Hairston, M., **Cen, W.**, Chen, H., & Bozeman, A. (2023). Abstract WP61: Impact Of Post-stroke Post Traumatic Stress Disorder On Quality Of Life. *Stroke*, 54(Suppl_1), AWP61-AWP61.
+
+10. Kurjji, N., Erskine, J., **Cen, W.**, & DeBate, R. (2016). Improving physical activity frequency and internal assets among 3rd-5th grade girls: An exploratory study of a sport-based positive youth development program. *APHA 2016 Annual Meeting & Expo*.
+
+11. **Cen, W.**, Kurjji, N., Erskine, J., & DeBate, R. (2016). Changes in developmental assets among non-white 3rd-5th grade girls participating in a girl-focused sport-based positive youth development program. *APHA 2016 Annual Meeting & Expo*.
