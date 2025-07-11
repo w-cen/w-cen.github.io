@@ -7,7 +7,7 @@ author_profile: true
 
 Download CV
 
-[Download my Curriculum Vitae (PDF)](/files/CV Weiliang Cen.pdf)
+[Download my Curriculum Vitae (PDF)](/files/CV_Weiliang Cen.pdf)
 
 Download Resume
 
