@@ -11,4 +11,4 @@ Download CV
 
 Download Resume
 
-[Download my Resume (PDF)](/files/Weiliang Cen.pdf)
+[Download my Resume (PDF)](/files/Weiliang Cen Resume.pdf)
